@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jsmith6417
 - 👀 I’m interested in Python and R
-- 🌱 I’m currently learning more about Python and R
+- 🌱 I’m currently learning more about Python, R and SQL
