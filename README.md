@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jsmith6417
-- 👀 I’m interested in Python and SQL
-- 🌱 I’m currently learning more about Python and SQL
+- 👀 I’m interested in Python, SQL, and Tableau
+- 🌱 I enjoy data analysis projects
